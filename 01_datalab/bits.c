@@ -21,7 +21,7 @@ int bitXor(int x, int y) {
  *   Rating: 1
  */
 int tmin(void) {
-    return 1 << 31; //1000...0
+    return 1<<31; //1000...0
 }
 /*
  * isTmax - returns 1 if x is the maximum, two's complement number,
